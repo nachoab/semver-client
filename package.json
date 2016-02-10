@@ -1,0 +1,12 @@
+{
+  "name": "semver-client",
+  "version": "0.1.0",
+  "description": "semver to use on the client via Browserify",
+  "author": "Nacho Garcia <nachoab@gmail.com>",
+  "dependencies": {
+    "gulp": "~3.3.1",
+    "gulp-browserify": "https://github.com/deepak1556/gulp-browserify/tarball/master",
+    "gulp-concat": "~2.1.7",
+    "semver": "^5.1.0"
+  }
+}
